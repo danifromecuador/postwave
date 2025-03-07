@@ -56,4 +56,4 @@ group :development do
   gem "web-console"
 end
 
-gem 'haml'
+gem "haml"
