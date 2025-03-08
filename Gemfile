@@ -57,3 +57,4 @@ group :development do
 end
 
 gem "haml"
+gem "rails-erd"
